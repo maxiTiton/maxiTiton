@@ -17,7 +17,7 @@
 - Me encuentro cursando el 3er año de ing en sistemas de informacion.
 - Actualmente aprendiendo Desarrollo Back-end por cuenta propia.
 - Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.
-- Este es mi currículum [link](https://www.linkedin.com/in/castro-monzon-martin-horacio-2855451b9/)
+- Este es mi currículum
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
