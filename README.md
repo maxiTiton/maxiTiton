@@ -95,12 +95,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=true&include_all_commits=true&count_private=true&theme=radical&bg_color=00000000&title_color=cf6a3c&text_color=ffffff&icon_color=cf6a3c" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=true&include_all_commits=true&count_private=true&theme=gruvbox&bg_color=2a2d36&title_color=cf6a3c&text_color=ffffff&icon_color=cf6a3c" width="600px" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=true&theme=radical&background=00000000&ring=cf6a3c&fire=cf6a3c&currStreakLabel=cf6a3c" width="600px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=true&theme=gruvbox&background=2a2d36&ring=cf6a3c&fire=cf6a3c&currStreakLabel=cf6a3c" width="600px" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=true&layout=compact&theme=radical&bg_color=00000000&title_color=cf6a3c&text_color=ffffff" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=true&layout=compact&theme=gruvbox&bg_color=2a2d36&title_color=cf6a3c&text_color=ffffff" width="600px" />
 </div>
+
 
 
 
