@@ -95,10 +95,21 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&theme=onedark" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=false&theme=onedark" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=onedark" alt="Top Langs"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&theme=default&bg_color=00000000&title_color=c97c5d&text_color=dddddd&icon_color=c97c5d" width="300"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=false&theme=default&background=00000000&ring=c97c5d&fire=c97c5d&currStreakLabel=c97c5d" width="300"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=default&bg_color=00000000&title_color=c97c5d&text_color=dddddd" width="300"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
