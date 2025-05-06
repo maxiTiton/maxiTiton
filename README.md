@@ -95,14 +95,11 @@
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&theme=radical" alt="GitHub Stats"/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=false&theme=radical" alt="GitHub Streak"/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical" alt="Top Langs"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&theme=onedark" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=false&theme=onedark" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=onedark" alt="Top Langs"/>
 </div>
+
 
 
 <br>
