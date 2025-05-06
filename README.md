@@ -95,9 +95,10 @@
 <br>
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=maxiTiton=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&theme=radical)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=false&theme=radical)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical)
+
 
 </a>
 </div>
