@@ -91,24 +91,17 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&theme=default&bg_color=00000000&title_color=c97c5d&text_color=dddddd&icon_color=c97c5d" width="300"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=false&theme=default&background=00000000&ring=c97c5d&fire=c97c5d&currStreakLabel=c97c5d" width="300"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=default&bg_color=00000000&title_color=c97c5d&text_color=dddddd" width="300"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=false&include_all_commits=true&count_private=true&theme=default&bg_color=00000000&title_color=c97c5d&text_color=dddddd&icon_color=c97c5d" width="600px" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=false&theme=default&background=00000000&ring=c97c5d&fire=c97c5d&currStreakLabel=c97c5d" width="600px" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=false&layout=compact&theme=default&bg_color=00000000&title_color=c97c5d&text_color=dddddd" width="600px" />
 </div>
+
 
 
 
