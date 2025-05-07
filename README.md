@@ -1,17 +1,14 @@
 
 <h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/martinxr250/martinxr250"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Autodidacta+Full-Stack;++;+Back-End+Developer...;Cursando:+Ingenieria+en+Sistemas"></a>
-</p>
+<h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/martinxr250/martinxr250"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=8b5c4d&size=25&center=true&vCenter=true&width=600&height=100&lines=Autodidacta+Full-Stack;++;+Back-End+Developer...;Cursando:+Ingenieria+en+Sistemas"></a>
+</p>
 
 <br>
 
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> ** About me **
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> ** About me **
 <br>
 
 - Me encuentro cursando el 3er año de ing en sistemas de informacion.
@@ -49,10 +46,6 @@
    ![Express](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-
-
-
 <br>
 
 - **Cloud Hosting**:
@@ -78,9 +71,6 @@
     ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-
-
 </p>
 
 <br>
@@ -89,7 +79,6 @@
 -----
 
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
@@ -102,13 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=true&layout=compact&theme=dark&bg_color=2a2d36&title_color=8b5c4d&text_color=ffffff" width="600px" />
 </div>
 
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
@@ -118,9 +100,8 @@
 <br>
 <br>
 
-## <b> Contactame en: !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contactame en: !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
