@@ -1,124 +1,78 @@
-
-<h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <b>Hi there!</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
-  <a href="https://github.com/martinxr250/martinxr250"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=8b5c4d&size=25&center=true&vCenter=true&width=600&height=100&lines=Autodidacta+Full-Stack;++;+Back-End+Developer...;Cursando:+Ingenieria+en+Sistemas"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F57C00&center=true&vCenter=true&width=600&height=60&lines=Self-taught+Full-Stack+Developer;Back-End+in+progress...;Information+Systems+Engineering+Student">
 </p>
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> ** About me **
-<br>
+## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="45px"> <b>Technologies and Tools</b>
+<br> 
 
-- Me encuentro cursando el 3er año de ing en sistemas de informacion.
-- Actualmente aprendiendo Desarrollo Back-end por cuenta propia.
-- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.
-- Este es mi currículum
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### 💻 Programming Languages
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white)
 
-<p align="center">
+### 🗃️ Databases
 
-- **Languages**:
-  
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-    - **Databases**:
+### 🌐 Front-End
 
-   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br>   
-    
-- **Front-End Development**:
+### ☁️ Hosting / Deployment
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Express](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-327FC7?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
+### 🧰 Software and Tools
 
-- **Cloud Hosting**:
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
+### 🔧 Others
 
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Terminal](https://img.shields.io/badge/Terminal-005F73?style=for-the-badge&logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br>
 
-- **Extras**:
-	
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45px"> <b>GitHub Stats</b>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&hide_border=true&include_all_commits=true&count_private=true&theme=dark&bg_color=2a2d36&title_color=8b5c4d&text_color=ffffff&icon_color=8b5c4d" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&show_icons=true&theme=tokyonight&hide_border=true&title_color=f57c00&icon_color=f57c00" width="600px"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiTiton&hide_border=true&theme=dark&background=2a2d36&ring=8b5c4d&fire=8b5c4d&currStreakLabel=8b5c4d" width="600px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maxiTiton&theme=tokyonight&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00" width="600px"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&hide_border=true&layout=compact&theme=dark&bg_color=2a2d36&title_color=8b5c4d&text_color=ffffff" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&layout=compact&theme=tokyonight&hide_border=true&title_color=f57c00" width="600px"/>
 </div>
 
 <br>
-<br>
-<br>
 
------
+## 🤝 Contact
 
-<br>
-<br>
-
-## <b> Contactame en: !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<p align="center">
+  📧 Email: [Your email here]  
+  💼 LinkedIn: [Your LinkedIn here]  
+  🌐 Portfolio: [Your site here]  
+</p>
 
 
-
-
-<!--
-**maxiTiton/maxiTiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
