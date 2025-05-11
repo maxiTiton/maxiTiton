@@ -19,7 +19,6 @@
 <br>
 
 ## 🛠️ Technologies and Tools
-<br> 
 
 ### 💻 Programming Languages
 
