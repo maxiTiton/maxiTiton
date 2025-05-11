@@ -18,7 +18,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="45px"> <b>Technologies and Tools</b>
+## 🛠️ Technologies and Tools
 <br> 
 
 ### 💻 Programming Languages
@@ -63,7 +63,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45px"> <b>GitHub Stats</b>
+## 📊 GitHub Stats
 <br>
 
 <div align="center">
@@ -83,5 +83,4 @@
   💼 LinkedIn: [Your LinkedIn here]  
   🌐 Portfolio: [Your site here]  
 </p>
-
 
