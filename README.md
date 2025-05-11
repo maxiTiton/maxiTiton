@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F57C00&center=true&vCenter=true&width=600&height=60&lines=Self-taught+Full-Stack+Developer;Back-End+in+progress...;Information+Systems+Engineering+Student">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F57C00&center=true&vCenter=true&width=600&height=60&lines=Self-taught+Full-Stack+Developer;Information+Systems+Engineering+Student">
 </p>
 
 <br>
