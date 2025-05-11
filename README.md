@@ -9,6 +9,15 @@
 
 <br>
 
+## 📌 About me
+
+- 🎓 4th-year Information Systems Engineering student at UTN-FRC
+- 👨‍💻 Learning Full-Stack development in a self-taught manner
+- 🌱 Open to internships or job opportunities  
+- 📄 Here is my resume:
+
+<br>
+
 ## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="45px"> <b>Technologies and Tools</b>
 <br> 
 
