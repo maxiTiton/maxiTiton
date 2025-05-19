@@ -78,8 +78,8 @@
 ## 🤝 Contact
 
 <p align="center">
-  📧 Email: [Your email here]  
-  💼 LinkedIn: [Your LinkedIn here]  
+  📧 Email: maximot0904@gmail.com  
+  💼 LinkedIn: www.linkedin.com/in/máximo-titón 
   🌐 Portfolio: [Your site here]  
 </p>
 
