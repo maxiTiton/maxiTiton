@@ -68,7 +68,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxiTiton&show_icons=true&theme=tokyonight&hide_border=true&title_color=f57c00&icon_color=f57c00" width="600px"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maxiTiton&theme=tokyonight&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00" width="600px"/>
+  <img src="https://streak-stats.demolab.com?user=maxiTiton&theme=tokyonight&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00" width="600px"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiTiton&layout=compact&theme=tokyonight&hide_border=true&title_color=f57c00" width="600px"/>
 </div>
