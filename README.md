@@ -78,8 +78,8 @@
 ## 🤝 Contact
 
 <p align="center">
-  📧 Email: maximot0904@gmail.com  
-  💼 LinkedIn: www.linkedin.com/in/máximo-titón 
-  🌐 Portfolio: [Your site here]  
+  📧 Email: maximot0904@gmail.com<br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/maximo-titon" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/maximo-titon</a><br>
+  🌐 Portfolio: <a href="https://portfolio-8okp.onrender.com/" target="_blank" rel="noopener noreferrer">portfolio-8okp.onrender.com</a>
 </p>
 
