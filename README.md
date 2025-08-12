@@ -76,8 +76,14 @@
 ## 🤝 Contact
 
 <p align="center">
-  📧 Email: maximot0904@gmail.com<br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/maximo-titon" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/maximo-titon</a><br>
-  🌐 Portfolio: <a href="https://portfolio-8okp.onrender.com/" target="_blank" rel="noopener noreferrer">portfolio-8okp.onrender.com</a>
+  <a href="mailto:maximot0904@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-maximot0904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/maximo-titon" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-maximo--titon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-8okp.onrender.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-8okp.onrender.com-5F249F?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
