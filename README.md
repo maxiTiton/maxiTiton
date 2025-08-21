@@ -13,7 +13,8 @@
 
 - 🎓 4th-year Information Systems Engineering student at UTN-FRC
 - 👨‍💻 Learning Full-Stack development in a self-taught manner
-- 🚀 Open to internships or job opportunities  
+- 🚀 Open to internships or job opportunities
+- 🌍 English level: B2
 - 📄 Here is my resume:
 
 <br>
