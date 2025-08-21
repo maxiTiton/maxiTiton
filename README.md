@@ -63,7 +63,6 @@
 ### 🔧 Others
 
 ![Terminal](https://img.shields.io/badge/Terminal-005F73?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
