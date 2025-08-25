@@ -86,7 +86,7 @@
   <a href="https://www.linkedin.com/in/maximo-titon/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Maximo--Titon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mi-portafolio-ia8jjw1vs-maxis-projects-34ad6b92.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://mi-portafolio-one-ruddy.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-my--portfolio-5F249F?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
