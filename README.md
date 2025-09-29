@@ -66,6 +66,7 @@
 
 <br>
 
+<!--
 ## 📊 GitHub Stats
 <br>
 
@@ -76,6 +77,8 @@
 </div>
 
 <br>
+-->
+
 
 ## 🤝 Contact
 
